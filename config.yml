@@ -1,0 +1,9 @@
+MysqlAddr: "localhost:3306"
+MysqlUserName: "root"
+MysqlPWD: ""
+MysqlDBName: "tservice"
+RedisAddr: "localhost:6379"
+
+JWTKey: "tservice1314"
+JWTDuration: 3600
+JWTRefreshDuration: 73000
